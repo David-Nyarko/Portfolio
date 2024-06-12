@@ -27,6 +27,11 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **Technologies**: Observable
 - **[View Notebook](https://observablehq.com/d/1b70354220e75e32)**
 
+- #### Analyzing the Financial Playbook of Collegiate Athletics
+- **Description**: This project delves into the financial intricacies of collegiate athletics in the U.S. from 2010 to 2014, focusing on subsidies, athletic expenses, endowments, and NCAA distributions. By analyzing data across various university divisions and conferences, it highlights the financial disparities between "power-five" conferences and smaller, less sports-focused schools. The visualizations illustrate how reliance on donor support versus government subsidies varies significantly, suggesting potential areas for reevaluating NCAA funding distribution to balance the playing field across all athletic programs.
+- **Technologies**: Observable
+- **[View Notebook](https://observablehq.com/d/cbd73d490244ddb7)**
+
 ### Personal Projects
 
 #### BookItRight
