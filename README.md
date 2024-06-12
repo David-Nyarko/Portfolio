@@ -43,7 +43,7 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
 - **Technologies**: SQL, Triggers
 - ERD Linkkkkkk
-- **[View Project](GitHub_Link)**
+- **[View Project](GitHub_Link)** Database Project pdf
 
 #### CS 2 HW assignment - Screen saver etc etc
 - **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
@@ -61,6 +61,21 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **[View Project](GitHub_Link)**
 
 #### WMATA ELES Project ERD
+- **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
+- **Technologies**: SQL, Triggers
+- **[View Project](GitHub_Link)**
+- 
+#### Pandas Data cleaning
+- **Description**: eXAMPLES OF DATA CLEANING FOR VARIOUS DATASETS
+- CaR dATA
+- tIHS DATA
+- **Technologies**:Pandas, Numpy, Matplotlib
+- **[View Project](GitHub_Link)**
+
+- #### Pandas Data cleaning
+- **Description**: eXAMPLES OF DATA CLEANING FOR VARIOUS DATASETS
+
+#### Tensor Flow Example
 - **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
 - **Technologies**: SQL, Triggers
 - **[View Project](GitHub_Link)**
