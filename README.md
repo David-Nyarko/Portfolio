@@ -8,12 +8,12 @@ I'm a Computer Science and Finance student at American University, expecting to 
 
 ## Projects
 
-#### Project Name 1
+#### Valgrind Bug Detection
 - **Description**: Brief description of the project, the problem it solves, and technologies used.
 - **Technologies**: Python, Django, JavaScript
 - **[View Project](GitHub_Link) / [Live Demo](Live_Demo_Link)**
 
-#### Project Name 2
+#### Stock Return Model
 - **Description**: Brief description of the project.
 - **Technologies**: C, SQL
 - **[View Project](GitHub_Link)**
@@ -40,6 +40,27 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **[View Project](GitHub_Link)**
 
 #### Farm Management Database
+- **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
+- **Technologies**: SQL, Triggers
+- ERD Linkkkkkk
+- **[View Project](GitHub_Link)**
+
+#### CS 2 HW assignment - Screen saver etc etc
+- **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
+- **Technologies**: SQL, Triggers
+- **[View Project](GitHub_Link)**
+
+#### CS 3 HW assignment - Examples of C code
+- **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
+- **Technologies**: SQL, Triggers
+- **[View Project](GitHub_Link)**
+
+#### WMATA Internship PowerApps Lane Workflows 
+- **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
+- **Technologies**: SQL, Triggers
+- **[View Project](GitHub_Link)**
+
+#### WMATA ELES Project ERD
 - **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
 - **Technologies**: SQL, Triggers
 - **[View Project](GitHub_Link)**
