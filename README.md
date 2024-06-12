@@ -1,4 +1,3 @@
-# Portfolio
 # David Ohene-Nyarko's Portfolio
 
 Welcome to my GitHub portfolio! This repository is a curated collection of my projects, ranging from software development to data visualizations. Each project listed here showcases my skills and contributions to various domains using a wide array of technologies.
@@ -39,11 +38,6 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **Description**: This project enhances the management of my family’s farm data through a custom-built database system.
 - **Technologies**: SQL, Triggers
 - **[View Project](GitHub_Link)**
-
-## Skills
-
-- **Programming Languages**: Python, JavaScript, C, SQL
-- **Tools and Technologies**: VSCode, Conda, Salesforce, Docker, Git, Tableau, Grafana, Lucidchart
 
 ## Contact
 
