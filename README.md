@@ -47,5 +47,5 @@ I'm a Computer Science and Finance student at American University, expecting to 
 
 ## Contact
 
-Feel free to reach out to me for collaborations or questions at [davidnyarko1221@gmail.com](mailto:davidnyarko1221@gmail.com). You can also follow my updates and find more of my work on [GitHub](https://github.com/David-Nyarko).
+Feel free to reach out to me for collaborations or questions at [davidnyarko1221@gmail.com](mailto:davidnyarko1221@gmail.com).
 
