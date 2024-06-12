@@ -65,7 +65,7 @@ I'm a Computer Science and Finance student at American University, expecting to 
 - **Technologies**: SQL, Triggers
 - **[View Project](GitHub_Link)**
 - 
-#### Pandas Data cleaning
+#### Data cleaning
 - **Description**: eXAMPLES OF DATA CLEANING FOR VARIOUS DATASETS
 - CaR dATA
 - tIHS DATA
