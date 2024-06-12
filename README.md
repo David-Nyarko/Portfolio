@@ -22,10 +22,10 @@ I'm a Computer Science and Finance student at American University, expecting to 
 
 ### Data Visualization Projects
 
-#### Observable Notebook 1
-- **Description**: Insightful visualization of XYZ data which provides insights into ABC.
-- **Technologies**: D3.js, Observable
-- **[View Notebook](Observable_Link)**
+#### Virginia Runaway Slave Records
+- **Description**: Description: This project involves a comprehensive analysis and visualization of runaway slave records from Virginia between 1820 and 1860. Utilizing data from the Virginia government dataset, the visualizations reveal patterns and trends in escape incidents across different counties and highlight specific enslavers with the highest numbers of recorded escapes. The project aims to provide a deeper historical understanding of the dynamics of escapes and the implications on both the local and broader scales.
+- **Technologies**: Observable
+- **[View Notebook](https://observablehq.com/d/1b70354220e75e32)**
 
 ### Personal Projects
 
