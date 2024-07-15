@@ -27,7 +27,8 @@ data was then exported seamlessly to Oracle databases for detailed analysis.
 
 #### BookItRight
 - **Description**: A bookkeeping application
--  **[Project Overview](file:///C:/Users/ohen830/Downloads/BookItRight%20-%20Balancing%20Your%20Business,%20One%20Entry%20a%203e563b29930040dc918f22a432aa0bf4.pdf)**
+-  **Project Overview**:
+
 
 #### Virginia Runaway Slave Records
 - **Description**: This project involves a comprehensive analysis and visualization of runaway slave records from Virginia between 1820 and 1860. Utilizing data from the Virginia government dataset, the visualizations reveal patterns and trends in escape incidents across different counties and highlight specific enslavers with the highest numbers of recorded escapes. The project aims to provide a deeper historical understanding of the dynamics of escapes and the implications on both the local and broader scales.
