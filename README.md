@@ -26,8 +26,10 @@ data was then exported seamlessly to Oracle databases for detailed analysis.
 ![Smart Farm Management Database ](https://github.com/user-attachments/assets/817a91ba-717f-4209-919e-b199ecf0454a)
 
 #### BookItRight
-- **Description**: A bookkeeping application
--  **Project Overview**:
+![1721052646435-805f25f7-8576-42d5-8e40-dcb411be1d0c_1](https://github.com/user-attachments/assets/ee0be215-12e0-45e1-aed5-52fc6fbb459b)
+![1721052646435-805f25f7-8576-42d5-8e40-dcb411be1d0c_2](https://github.com/user-attachments/assets/c2b59400-91cf-4355-8e0e-8ff9ec0038d0)
+![1721052646435-805f25f7-8576-42d5-8e40-dcb411be1d0c_4](https://github.com/user-attachments/assets/a38d5b5a-586d-4304-b2f7-cc3a9e51c07b)
+![1721052646435-805f25f7-8576-42d5-8e40-dcb411be1d0c_5](https://github.com/user-attachments/assets/c92f5f8f-448d-476f-a25c-607f1d2b3ae5)
 
 
 #### Virginia Runaway Slave Records
