@@ -8,6 +8,24 @@ I'm a Computer Science and Finance student at American University, expecting to 
 
 ## Projects (Currently Updating)
 
+#### WMATA ELES Project
+- **Description**: Conducted a comprehensive web scraping project using Python to extract URLs containing critical information
+previously inaccessible, developed and executed within a virtual environment for controlled efficiency. The cleaned
+data was then exported seamlessly to Oracle databases for detailed analysis.
+- **ERD**:
+![ELES PROJECT ERD (DRAFT)](https://github.com/user-attachments/assets/2afbf76e-ac7c-4207-ac62-bf0cc804a1a7)
+
+#### WMATA Power Apps
+- **Swimlane**:
+![PowerApps Lanes Workflow](https://github.com/user-attachments/assets/fc2cc15d-7927-43e6-bd04-778f65c764f6)
+- **Workflow**:
+![PowerApps Scheduling Workflow](https://github.com/user-attachments/assets/90e5d849-081c-4d37-aa1f-852a4028c260)
+
+#### Farm Management Database
+- **ERD**:
+![Smart Farm Management Database ](https://github.com/user-attachments/assets/817a91ba-717f-4209-919e-b199ecf0454a)
+
+
 #### Virginia Runaway Slave Records
 - **Description**: Description: This project involves a comprehensive analysis and visualization of runaway slave records from Virginia between 1820 and 1860. Utilizing data from the Virginia government dataset, the visualizations reveal patterns and trends in escape incidents across different counties and highlight specific enslavers with the highest numbers of recorded escapes. The project aims to provide a deeper historical understanding of the dynamics of escapes and the implications on both the local and broader scales.
 - **Technologies**: Observable
