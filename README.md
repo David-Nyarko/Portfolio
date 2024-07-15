@@ -26,5 +26,5 @@ I'm a Computer Science and Finance student at American University, expecting to 
 
 ## Contact
 
-Feel free to reach out to me for collaborations or questions at [davidnyarko1221@gmail.com](mailto:davidnyarko1221@gmail.com).
+Feel free to reach me at [davidnyarko1221@gmail.com](mailto:davidnyarko1221@gmail.com).
 
